@@ -19,7 +19,7 @@ export const Portfolio = () => (
   </Card>
 
   <Card>
-    <Card.Img variant="top" src="../assets/projects/burerapp.png" height="170px" width="180px"/>
+    <Card.Img variant="top" src="../assets/projects/burgerapp.png" height="170px" width="180px"/>
     <Card.Body>
       <Card.Title>Burger</Card.Title>
       <Card.Text>
