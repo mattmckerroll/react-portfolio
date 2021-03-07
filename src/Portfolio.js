@@ -50,6 +50,28 @@ export const Portfolio = () => (
     </Card.Body>
   </Card>
 
+  <Card className="pb-4">
+    <Card.Img variant="top" src="../assets/projects/employeetracker.png" height="193px" width="180px" />
+    <Card.Body>
+      <Card.Title>Employee Tracker App</Card.Title>
+      <Card.Text>
+      This is an app that can track employees, their roles, salaries and departments!
+      </Card.Text>
+      <Card.Link href="https://github.com/mattmckerroll/employeetracker"><i class="fas fa-external-link-alt"></i>Find out more</Card.Link>
+    </Card.Body>
+  </Card>
+
+  <Card className="pb-4">
+    <Card.Img variant="top" src="../assets/projects/dayplanner.png" height="193px" width="180px" />
+    <Card.Body>
+      <Card.Title>Day Planner</Card.Title>
+      <Card.Text>
+      This site is so you can save some text in different textboxes representing tasks that occur at a certain hour. even if you leave the page, your entries are saved.
+      </Card.Text>
+      <Card.Link href="https://github.com/mattmckerroll/MDMdayPlanner"><i class="fas fa-external-link-alt"></i>Find out more</Card.Link>
+    </Card.Body>
+  </Card>
+
   </CardColumns>
 
 

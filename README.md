@@ -24,7 +24,7 @@ visit the site [here](https://mattmckerroll.github.io/react-portfolio/)
 
 ## Usage 
 
-Use this app to track the employees!
+Learn some stuff about me!
 
 ## Credits
 
